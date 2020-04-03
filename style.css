@@ -84,3 +84,6 @@ div.infofobuy p,div.infofobuy h1,div.infofobuy h3{
     text-align: center;
     padding: 30px;
 }
+.form-group {
+    padding: 0;
+}
