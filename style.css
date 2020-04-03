@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #fff!important;
+}
+.whereiam {
+    padding-top: 20px;
+    padding-right: 60px;
+    text-align: right;
+}
+div.whereiam p {
+    margin-bottom: 0;
+}
+.menu {
+    text-align: center;
+    padding-top: 20px;
+
+}
+ul.menu li {
+    font-family: Arial;
+    display: inline;
+    padding: 4px;
+}
+.hiicon {
+    text-align: center;
+}
+div.hiicon img {
+    width: 320;
+    height: 180px;
+}
+.carousels {
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.infofobuy {
+    margin-top: 50px;
+}
+
+div.infofobuy p,div.infofobuy h1,div.infofobuy h3{
+    text-align: center;
+    font-family: Arial;
+}
+.buttons {
+    text-align: center;
+    margin: 2px ;
+}
+.btns {
+    width: 220px;
+    height: 60px;
+    border:1px solid black;
+    border-radius: 30px;
+    background: transparent;
+}
+.galleryes {
+    text-align: center;
+    margin: auto;
+}
+#thumbs {   
+    padding-top: 10px;
+    overflow: hidden;
+    margin: auto;
+    text-align: center;
+}
+#thumbs img {
+    width: 500px;
+    height: 350px;
+    padding:  10px;
+}
+#thumbs img {
+    margin-right: 6px;
+}
+#description {
+    background: black;
+    color: white;
+    bottom: 0;
+    padding: 10px 20px;
+    width: 525px;
+    margin: 5px;
+}
+#panel { position: relative; }
+.inventory {
+    text-align: center;
+    padding: 30px;
+}
